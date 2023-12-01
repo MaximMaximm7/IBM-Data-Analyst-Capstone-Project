@@ -1,6 +1,6 @@
 # IBM-Data-Analyst-Professional-Capstone-Project
 
-Business challenge that requires data analysis to be performed on real-world datasets.  
+Business challenge that requires data analysis was performed on real-world datasets.  
 
 Various tasks were performed, including: 
 - Data collection from multiple sources 
