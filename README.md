@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Professional-Capstone-Project
+# IBM-Data-Analyst-Professional-Project
 
 Business challenge that requires data analysis was performed on real-world datasets.  
 
