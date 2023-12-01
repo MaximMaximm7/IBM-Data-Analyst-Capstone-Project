@@ -14,3 +14,5 @@ The project culminated with a presentation of data analysis report for various s
 The report included an executive summary, analysis, and a conclusion. 
 
 Throughout this project, I demonstrated proficiency in using Jupyter Notebooks, SQL, Relational Databases (RDBMS), Business Intelligence (BI) tools such as Cognos, and Python libraries including Pandas, Numpy, Scikit-learn, Scipy, Matplotlib, Seaborn, and others.
+
+https://www.linkedin.com/in/maxim-movchan
